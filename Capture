@@ -1,0 +1,21 @@
+#!/bin/bash
+echo "please enter resource name:"
+read resource
+echo "please enter resource country:"
+read country
+echo "please enter name of government_ministry"
+read government_ministry
+
+action=1
+echo $resource"    ""$country"    ""$government_ministry""
+echo "is the information provided correct?(1)"
+read action
+if [ $action -eq 1 ]
+then 
+echo $resource"    "$country"      "$government_ministry >> resources.txt
+echo "record saved"
+else
+echo "record not saved"
+fi
+echo ""
+cat resources.txt

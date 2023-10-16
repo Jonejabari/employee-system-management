@@ -1,0 +1,20 @@
+#!/bin/bash
+echo "**********************************************************"
+echo         -e "Welcome To Better Africa For Tomorrow"
+echo "*********************************************************"
+echo "1) Create"
+echo "2) Retrieve"
+echo "3) Update"
+echo "4) Delete"
+echo "5) Capture Resources"
+
+echo "Which action would you like to perform?"
+read action
+case $action in 
+1) bash Create.sh;;
+2) bash Retrieve.sh;;
+3) bash Update.sh;;
+4) bash Delete.sh;;
+5) bash Capture Resources.sh;;
+
+esac

@@ -1,0 +1,7 @@
+Thabo    COO    7000   Namibia  Tha-'12/05/21'-'17:19:51'
+foloko    cleaner    100   lesotho  fol-'12/05/21'-'17:54:43'
+karabo    COO    5000   morroco  kar-'13/05/21'-'14:11:50'
+600    HR    1000   lesotho  jab-'13/05/21'-'14:25:30'
+Tsepiso    COO    6500   Swaziland  Tse-'14/05/21'-'10:11:53'
+Tsepiso    PA    6000   Swaziland  Tse-'14/05/21'-'10:24:56'
+sele    supervisor    6   Lesotho  sel-'14/05/21'-'16:04:17'

@@ -1,0 +1,6 @@
+diamond    lesotho      NGO
+diamond    lesotho      letseng diamond
+gold    south africa      Gauteng Pt Lty
+Platinum    Morocco      Asbestos Pt Lty
+Asbestos    USA      A.B.B. Lummus Global Inc.
+Diamond    Lesotho      Kao
